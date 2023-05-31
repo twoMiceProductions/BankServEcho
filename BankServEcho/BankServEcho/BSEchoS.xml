@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+<user>root</user>
+<password>MQ@321</password>
+<qManager>AMS.FINBOND.UAT</qManager>
+<replyToQName>QL.AMS.S.RES</replyToQName>
+<initialContextUrl>file:////home/npadmin/JNDI-Directory/JMS</initialContextUrl>
+<connectionFactoryFromJndi>finbond_cf</connectionFactoryFromJndi>
+<destinationFromJndi>QR.AMS.S.REQ</destinationFromJndi>
+</configuration>
+
+<!-- BKSV Echo Selby UAT -->

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+<user>root</user>
+<password>MQ@321</password>
+<qManager>AMS.FINBOND.R.UAT</qManager>
+<replyToQName>QL.AMS.R.RES</replyToQName>
+<initialContextUrl>file:///home/npadmin/JNDI-FB-R-Directory/JMS</initialContextUrl>
+<connectionFactoryFromJndi>finbond_r_cf</connectionFactoryFromJndi>
+<destinationFromJndi>QR.AMS.R.REQ</destinationFromJndi>
+</configuration>
+
+<!-- BKSV Echo Randburg UAT -->
